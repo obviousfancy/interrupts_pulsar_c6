@@ -10,9 +10,8 @@ con notas específicas del hardware de esta tarjeta.
 
 | Elemento | Valor |
 |---|---|
-| Tarjeta | UNIT Electronics PULSAR ESP32-C6 |
+| Tarjeta | [**UNIT Electronics PULSAR ESP32-C6**](https://github.com/UNIT-Electronics-MX/unit_pulsar_esp32_c6) |
 | IDE | Arduino IDE 2.x |
-| Core ESP32 | Espressif ESP32 Arduino Core 3.0.0 o superior |
 | Board definition | PULSAR ESP32-C6 |
 
 ### Configuración en Arduino IDE
